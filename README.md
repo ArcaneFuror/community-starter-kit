@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* A nice bot that offers friendly welcomes to new users
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Offers friendly welcomes on first time issues and pull requests
 
 ## Getting started
 
