@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+"Welcome to the repository user! Your issue has been seen and will be adressed momentarily!"
